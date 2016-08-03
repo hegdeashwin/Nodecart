@@ -1,0 +1,42 @@
+{
+  "name": "nodecart",
+  "version": "0.0.0",
+  "author": "Ashwin Hegde",
+  "description": "Nodecart is exclusively designed for the shop system and integrated shopping cart solution. This is part of server side scripting.",
+  "contributors": [
+    {
+      "name": "Ashwin Hegde",
+      "email": "ashwin.hegde3@gmail.com"
+    }
+  ],
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/hegdeashwin/Nodecart"
+  },
+  "issues": {
+    "url": "http://github.com/hegdeashwin/Nodecart/issues?state=open"
+  },
+  "milestones": {
+    "url": "http://github.com/hegdeashwin/Nodecart/issues/milestones"
+  },
+  "releases": {
+    "url": "http://github.com/hegdeashwin/Nodecart/releases"
+  },
+  "wiki": {
+    "url": "http://github.com/hegdeashwin/Nodecart/wiki"
+  },
+  "dependencies": {
+    "elasticsearch": "^4.0.2",
+    "good": "^6.1.2",
+    "good-console": "^5.0.0",
+    "hapi": "^8.8.1",
+    "mysql": "^2.6.2"
+  },
+  "engines": {
+    "node": ">=4.2.3"
+  },
+  "licenses": {
+    "type": "MIT",
+    "url": "http://raw.github.com/hegdeashwin/Nodecart/master/LICENSE"
+  }
+}
